@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="true_button">对</string>
+    <string name="false_button">错</string>
+    <string name="next_button">下一题</string>
+    <string name="question1">1Android是基于Java开发的？</string>
+    <string name="question2">2Android有三大基本组件？</string>
+    <string name="question3">3Java是面向过程的编程语言？</string>
+    <string name="question4">4《疯狂Android讲义》的作者是李刚？</string>
+    <string name="question5">5Android的最新版是棒棒糖？</string>
+    <string name="true_toast">回答正确</string>
+    <string name="false_toast">回答错误</string>
+    <string name="last_button">上一题</string>
+</resources>
